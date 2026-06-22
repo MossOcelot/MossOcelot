@@ -3,10 +3,6 @@
 ## 🤖 AI / Research Engineer
 
 [![Email](https://img.shields.io/badge/Email-Send%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phuminforwork@gmail.com)
-<!-- พร้อมเมื่อไหร่ ลบ <!-- กับ --> รอบบรรทัดล่าง แล้วใส่ลิงก์ได้เลย:
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2d2d2d?style=for-the-badge&logo=vercel&logoColor=white)](ใส่ลิงก์เว็บ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](ใส่ลิงก์ LinkedIn)
--->
 
 ---
 
